@@ -33,4 +33,10 @@ Screenshot CSS Grid Garden
 
 Link to Notes app Codepen: https://codepen.io/daelemans_m/pen/PQrBRp
 
-Link to Notes app GitHub repository : https://github.com/mdaelemans/webtech-notes-app
+Link to Notes app GitHub repository: https://github.com/mdaelemans/webtech-notes-app
+
+## Week 4 - node.js
+
+Link to node.js app Heroku: COMING SOON
+
+Link to node.js app GitHub repository: https://github.com/mdaelemans/webtech-nodejsapp
