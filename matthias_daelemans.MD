@@ -38,6 +38,6 @@ Link to Notes app GitHub repository: https://github.com/mdaelemans/webtech-notes
 
 ## Week 4 - node.js
 
-Link to node.js app Heroku: COMING SOON
+Link to node.js app Heroku: https://webtech-nodejs.herokuapp.com/
 
 Link to node.js app GitHub repository: https://github.com/mdaelemans/webtech-nodejsapp
