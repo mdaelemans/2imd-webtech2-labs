@@ -6,6 +6,7 @@
     - [Week 1 - GIT](#week-1---git)
     - [Week 2 - CSS Grid + Flexbox](#week-2---css-grid--flexbox)
     - [Week 3 - ES6](#week-3---es6)
+    - [Week 4 - node.js](#week-4---nodejs)
 
 <!-- /TOC -->
 
