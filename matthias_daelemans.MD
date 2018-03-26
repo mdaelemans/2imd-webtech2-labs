@@ -7,6 +7,7 @@
     - [Week 2 - CSS Grid + Flexbox](#week-2---css-grid--flexbox)
     - [Week 3 - ES6](#week-3---es6)
     - [Week 4 - node.js](#week-4---nodejs)
+    - [Week 6 - Web Sockets](#week-6---web-sockets)
 
 <!-- /TOC -->
 
@@ -41,3 +42,9 @@ Link to Notes app GitHub repository: https://github.com/mdaelemans/webtech-notes
 Link to node.js app Heroku: https://webtech-nodejs.herokuapp.com/
 
 Link to node.js app GitHub repository: https://github.com/mdaelemans/webtech-nodejsapp
+
+## Week 6 - Web Sockets
+
+Link to IMD Quest Heroku: https://webtech-websockets.herokuapp.com/
+
+Link to IMD Quest GitHub repository: https://github.com/mdaelemans/webtech-quest
