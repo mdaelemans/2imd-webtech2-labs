@@ -8,6 +8,7 @@
     - [Week 3 - ES6](#week-3---es6)
     - [Week 4 - node.js](#week-4---nodejs)
     - [Week 6 - Web Sockets](#week-6---web-sockets)
+    - [Project - node.js, Web Sockets, SASS, BEM, Gulp](#project---nodejs-web-sockets-sass-bem-gulp)
 
 <!-- /TOC -->
 
@@ -48,3 +49,11 @@ Link to node.js app GitHub repository: https://github.com/mdaelemans/webtech-nod
 Link to IMD Quest Heroku: https://webtech-websockets.herokuapp.com/
 
 Link to IMD Quest GitHub repository: https://github.com/mdaelemans/webtech-quest
+
+## Project - node.js, Web Sockets, SASS, BEM, Gulp
+
+Link to Kweeni-project Heroku:
+https://webtech-project.herokuapp.com/
+
+Link to Kweeni-project GitHub repository:
+https://github.com/mdaelemans/webtech-project
